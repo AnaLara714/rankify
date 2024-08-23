@@ -1,0 +1,17 @@
+export const artists = [
+  { name: "Ed Sheeran", id: "6eUKZXaKkcviH0Ku9w2n3V" },
+  { name: "Queen", id: "1dfeR4HaWDbWqFHLkxsg1d" },
+  { name: "Ariana Grande", id: "66CXWjxzNUsdJxJ2JdwvnR" },
+  { name: "Maroon 5", id: "04gDigrS5kc9YWfZHwBETP" },
+  { name: "Imagine Dragons", id: "53XhwfbYqKCa1cC15pYq2q" },
+  { name: "Eminem", id: "7dGJo4pcD2V6oG8kP0tJRR" },
+  { name: "Lady Gaga", id: "1HY2Jd0NmPuamShAr6KMms" },
+  { name: "Cold Play", id: "4gzpq5DPGxSnKTe4SA8HAU" },
+  { name: "Beyonce", id: "6vWDO969PvNqNYHIOW5v0m" },
+  { name: "Bruno Mars", id: "0du5cEVh5yTK9QJze8zA0C" },
+  { name: "Rihanna", id: "5pKCCKE2ajJHZ9KAiaK11H" },
+  { name: "Shakira", id: "0EmeFodog0BfCgMzAIvKQp" },
+  { name: "Justin Bieber", id: "1uNFoZAHBGtllmzznpCI3s" },
+  { name: "Demi Lovato", id: "6S2OmqARrzebs0tKUEyXyp" },
+  { name: "Taylor Swift", id: "06HL4z0CvFAxyc27GXpf02" },
+];

@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "FSP DEMO - Aktifo A Bold";
+    src: url("../public/Fontspring-DEMO-aktifoa-bold.otf") format("otf");
+  }
+  @font-face {
+    font-family: "EB Garamond";
+    src: url("../public/EBGaramond-Regular.ttf") format("ttf");
+  }
+}
